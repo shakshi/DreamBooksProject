@@ -8,3 +8,12 @@ An android application with 3 sections: </br>
  
  <b>API</b> used to retrieve content: https://idreambooks.com/api<br/>
  <b>Library</b> used to make HTTP calls : <b>Retrofit</b> <br/>
+
+# Search
+<img src=”https://github.com/shakshi/DreamBooksProject/blob/master/screenshot1.png” height=”400”>
+
+# Top Recommended
+<img src=”https://github.com/shakshi/DreamBooksProject/blob/master/screenshot2.png” height=”400”>
+
+# Recommended by Genre
+<img src=”https://github.com/shakshi/DreamBooksProject/blob/master/screenshot3.png” height=”400”>
