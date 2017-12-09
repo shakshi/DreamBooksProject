@@ -2,7 +2,7 @@
 
 An android application with 3 sections: </br>
    - <b>Search</b> : It searches books by book's title, author or ISBN number and displays list of matching books<br/>
-   - <b>Top Recommended </b> : Display list of all top recommended books <br/>
+   - <b>Top Recommended Books</b> : Display list of all top recommended books <br/>
    - <b>Recommended Books By Genre</b> : A genre is selected from drop down menu and recommended books of the selected genre are displayed<br/>
    
  
@@ -13,9 +13,9 @@ An android application with 3 sections: </br>
 <img src="https://github.com/shakshi/DreamBooksProject/blob/master/screenshot1.png" height="400">
 <br/>
 
-# Top Recommended
+# Top Recommended Books
 <img src="https://github.com/shakshi/DreamBooksProject/blob/master/screenshot2.png" height="400">
 <br/>
 
-# Recommended by Genre
+# Recommended Books by Genre
 <img src="https://github.com/shakshi/DreamBooksProject/blob/master/screenshot3.png" height="400">
