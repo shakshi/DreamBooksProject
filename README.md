@@ -10,10 +10,12 @@ An android application with 3 sections: </br>
  <b>Library</b> used to make HTTP calls : <b>Retrofit</b> <br/>
 
 # Search
-<img src=”https://github.com/shakshi/DreamBooksProject/blob/master/screenshot1.png” height=”400”>
+<img src="https://github.com/shakshi/DreamBooksProject/blob/master/screenshot1.png" height="400">
+<br/>
 
 # Top Recommended
-<img src=”https://github.com/shakshi/DreamBooksProject/blob/master/screenshot2.png” height=”400”>
+<img src="https://github.com/shakshi/DreamBooksProject/blob/master/screenshot2.png" height="400">
+<br/>
 
 # Recommended by Genre
-<img src=”https://github.com/shakshi/DreamBooksProject/blob/master/screenshot3.png” height=”400”>
+<img src="https://github.com/shakshi/DreamBooksProject/blob/master/screenshot3.png" height="400">
