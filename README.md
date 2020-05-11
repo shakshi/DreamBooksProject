@@ -1,6 +1,8 @@
 # DreamBooksProject
 
-An android application with 3 sections: </br>
+An android app that helps to search books by book's title, author or ISBN number. It also allows you to review top recommended books by different genres. <br/>
+API used to retrieve content: https://idreambooks.com/api
+It has 3 sections: </br>
    - <b>Search</b> : It searches books by book's title, author or ISBN number and displays list of matching books<br/>
    - <b>Top Recommended Books</b> : Display list of all top recommended books <br/>
    - <b>Recommended Books By Genre</b> : A genre is selected from drop down menu and recommended books of the selected genre are displayed<br/>
